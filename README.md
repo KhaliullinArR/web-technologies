@@ -1,2 +1,22 @@
 # web-technologies
-get acquainted with web technologies
+# Get acquainted with web technologies
+- ***JSON data structure***
+- ***YAML data structure***
+- ***Gradle Basics(such as basic gradle project, building apps, dependency management)***
+- ***HyperText TranserProtocol***
+   - ***HTTP URL***
+   - ***HTTP Messages***
+- ***REST(Representational State Transfer)***
+- ***Spring Boot:leaves:***
+   - ***Basic Project Structure***
+   - ***Rest controller***
+     - **@SpringBootApplication**
+     - **@Controller**
+     - **@RestController**
+     - **@GetMapping**
+     - **@ResponseBody**
+     - **@PathVariable**
+     - **@RequestParam**
+     - **@RequestMapping**
+     - **@PostMapping**
+- ***Postman(used it for testing Rest API)***
