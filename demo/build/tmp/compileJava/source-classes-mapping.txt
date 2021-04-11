@@ -1,0 +1,10 @@
+com/example/demo/Task.java
+ com.example.demo.Task
+com/example/demo/DemoApplication.java
+ com.example.demo.DemoApplication
+com/example/demo/TaskController.java
+ com.example.demo.TaskController
+com/example/demo/Code.java
+ com.example.demo.Code
+com/example/demo/ArithmeticRestController.java
+ com.example.demo.ArithmeticRestController
